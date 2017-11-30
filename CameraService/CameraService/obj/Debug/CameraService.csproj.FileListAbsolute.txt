@@ -1,0 +1,6 @@
+D:\Code\Web\Project\CameraService\CameraService\bin\CameraService.dll.config
+D:\Code\Web\Project\CameraService\CameraService\bin\CameraService.dll
+D:\Code\Web\Project\CameraService\CameraService\bin\CameraService.pdb
+D:\Code\Web\Project\CameraService\CameraService\obj\Debug\CameraService.csprojResolveAssemblyReference.cache
+D:\Code\Web\Project\CameraService\CameraService\obj\Debug\CameraService.dll
+D:\Code\Web\Project\CameraService\CameraService\obj\Debug\CameraService.pdb
